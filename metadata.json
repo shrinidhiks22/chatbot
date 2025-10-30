@@ -1,0 +1,7 @@
+{
+  "name": "Farmer Query Assistant",
+  "description": "An AI-powered voice and vision chatbot for farmers. Ask questions about crops, pests, and soil health using your voice or by uploading an image, and get answers in real-time. Features a standard chat mode and a live, low-latency voice conversation mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
